@@ -39,17 +39,6 @@ Albion online stats is an extension to MMORPG game - Albion Online. It tracks ne
 
 After first execution the app is going to create default configuration file named `albion-online-stats.cfg`. Feel free to edit it according to your needs.
 
-## Is This Allowed
-<p align="center">
-    <img src="assets/sbistatement.png">
-</p>
-
-- [x] Only monitors your own party
-- [x] Does not modify our game client
-- [x] Does not track players that are not within the player's view
-- [x] Does not have an overlay to the game
-
-> **Note** this traits of the application are true from version 0.9.0+.
 
 ## Donate
 
